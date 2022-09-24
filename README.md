@@ -1,2 +1,2 @@
-# Flask API Backend
+# Flask API
 Inspiration from Miguel Grinberg
